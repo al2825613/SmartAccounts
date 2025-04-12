@@ -1,1 +1,1 @@
-# SmartAccounts
+playwright install
